@@ -2,4 +2,4 @@
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on intermediate level projects
-- 📫 How to reach me ...abraham@pinedadev.com
+- 📫 How to reach me ... abraham@pinedadev.com
