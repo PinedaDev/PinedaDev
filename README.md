@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PinedaDev
+- 👋 Hi, I’m Abraham
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on intermediate level projects
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on intermediate and Advanced level projects
 - 📫 How to reach me ... abraham@pinedadev.com
